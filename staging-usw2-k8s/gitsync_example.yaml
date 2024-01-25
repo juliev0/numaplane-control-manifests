@@ -10,5 +10,5 @@ spec:
   repositoryPaths:
     - name: user-repo
       path: sample-pipeline
-      repoUrl: https://github.com/xdevxy/numaflow-example-pipelines.git
+      repoUrl: https://github.com/juliev0/numaflow-example-pipelines.git
       targetRevision: main
